@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: Helvetica, sans-serif; 
+}
+
+h1, h2{
+  color:  #0E2612;
+}
+
+
+
+#quaMat{
+  width: 2000px;
+  height: 300px;
+  border-radius: 50px;;
+}
+
+#CirTri{
+  height: 300px;
+}
+
+ol{
+  background-color: #d8fbbc;
+}
+
+a{
+  color: #0b4c24;
+ 
+}
+
+#mathelp{
+  text-align: center;
+  background-color: #d6ffdb;
+}
+
+dl{
+   color: gray;
+   text-align: center;
+}
+
+dd{
+  line-height: 3.6;
+}
+
+
+
+div{
+  text-align: center;
+}
